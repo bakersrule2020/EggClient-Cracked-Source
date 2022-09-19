@@ -1,0 +1,672 @@
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/EggClient.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/EggClient.pdb
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Assembly-CSharp.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppMono.Security.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2Cppmscorlib.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Buffers.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Collections.Immutable.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Configuration.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Core.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Diagnostics.StackTrace.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Globalization.Extensions.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.IO.Compression.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Memory.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Numerics.Vectors.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Runtime.CompilerServices.Unsafe.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Runtime.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Runtime.Serialization.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Threading.Tasks.Extensions.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.ValueTuple.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Xml.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Xml.Linq.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/MelonLoader.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Photon-DotNet.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnhollowerBaseLib.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnhollowerRuntimeLib.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UniTask.Addressables.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UniTask.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UniTask.DOTween.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UniTask.Linq.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UniTask.TextMeshPro.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Unity.Burst.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Unity.Burst.Unsafe.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Unity.InputSystem.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Unity.Mathematics.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Unity.Postprocessing.Runtime.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Unity.TextMeshPro.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Unity.Timeline.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.AccessibilityModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.AIModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.AndroidJNIModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.AnimationModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.ARModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.AssetBundleModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.AudioModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.ClothModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.CoreModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.CrashReportingModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.DirectorModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.DSPGraphModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.GameCenterModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.GridModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.HotReloadModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.ImageConversionModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.IMGUIModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.InputLegacyModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.InputModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.JSONSerializeModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.LocalizationModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.ParticleSystemModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.PerformanceReportingModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.Physics2DModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.PhysicsModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.ProfilerModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.ScreenCaptureModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.SharedInternalsModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.SpriteMaskModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.SpriteShapeModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.StreamingModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.SubstanceModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.SubsystemsModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.TerrainModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.TerrainPhysicsModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.TextCoreModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.TextRenderingModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.TilemapModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.TLSModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.UI.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.UIElementsModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.UIModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.UmbraModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.UNETModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityAnalyticsModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityConnectModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityTestProtocolModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestAudioModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestTextureModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestWWWModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.VehiclesModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.VFXModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.VideoModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.VRModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.WindModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/UnityEngine.XRModule.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.Collections.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.Dynamics.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.SDK3.Dynamics.Contact.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.SDK3.Dynamics.PhysBone.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.SDKBase.Editor.BuildPipeline.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.Udon.ClientBindings.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.Udon.Common.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.Udon.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.Udon.Security.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.Udon.Serialization.AOT.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.Udon.Serialization.OdinSerializer.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.Udon.VM.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.Udon.VRCWrapperModules.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.Udon.Wrapper.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.UI.Core.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.UI.Elements.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.UI.Shared.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRC.Utility.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRCCore-Editor.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRCCore-Standalone.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRCLog.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRCSDK2.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRCSDK3.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRCSDK3A.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/VRCSDKBase.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/obj/Debug/net48/EggClient.csproj.AssemblyReference.cache
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/obj/Debug/net48/EggClient.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/obj/Debug/net48/EggClient.AssemblyInfoInputs.cache
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/obj/Debug/net48/EggClient.AssemblyInfo.cs
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/obj/Debug/net48/EggClient.csproj.CoreCompileInputs.cache
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/obj/Debug/net48/EggClient.csproj.CopyComplete
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/obj/Debug/net48/EggClient.dll
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/obj/Debug/net48/EggClient.pdb
+C:/Users/joshu/OneDrive/Desktop/EggClient/EggClient/bin/Debug/net48/Newtonsoft.Json.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/EggClient.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/EggClient.pdb
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Newtonsoft.Json.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Assembly-CSharp.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppMono.Security.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2Cppmscorlib.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.Buffers.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.Collections.Immutable.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.Configuration.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.Core.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.Diagnostics.StackTrace.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.Globalization.Extensions.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.IO.Compression.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.Memory.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.Numerics.Vectors.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.Runtime.CompilerServices.Unsafe.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.Runtime.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.Runtime.Serialization.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.Threading.Tasks.Extensions.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.ValueTuple.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.Xml.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Il2CppSystem.Xml.Linq.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/MelonLoader.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Photon-DotNet.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnhollowerBaseLib.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnhollowerRuntimeLib.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UniTask.Addressables.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UniTask.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UniTask.DOTween.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UniTask.Linq.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UniTask.TextMeshPro.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Unity.Burst.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Unity.Burst.Unsafe.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Unity.InputSystem.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Unity.Mathematics.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Unity.Postprocessing.Runtime.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Unity.TextMeshPro.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Unity.Timeline.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.AccessibilityModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.AIModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.AndroidJNIModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.AnimationModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.ARModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.AssetBundleModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.AudioModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.ClothModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.CoreModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.CrashReportingModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.DirectorModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.DSPGraphModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.GameCenterModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.GridModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.HotReloadModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.ImageConversionModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.IMGUIModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.InputLegacyModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.InputModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.JSONSerializeModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.LocalizationModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.ParticleSystemModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.PerformanceReportingModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.Physics2DModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.PhysicsModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.ProfilerModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.ScreenCaptureModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.SharedInternalsModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.SpriteMaskModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.SpriteShapeModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.StreamingModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.SubstanceModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.SubsystemsModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.TerrainModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.TerrainPhysicsModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.TextCoreModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.TextRenderingModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.TilemapModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.TLSModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.UI.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.UIElementsModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.UIModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.UmbraModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.UNETModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.UnityAnalyticsModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.UnityConnectModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.UnityTestProtocolModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestAudioModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestTextureModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestWWWModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.VehiclesModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.VFXModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.VideoModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.VRModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.WindModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.XRModule.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.Collections.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.Dynamics.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.SDK3.Dynamics.Contact.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.SDK3.Dynamics.PhysBone.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.SDKBase.Editor.BuildPipeline.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.Udon.ClientBindings.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.Udon.Common.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.Udon.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.Udon.Security.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.Udon.Serialization.AOT.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.Udon.Serialization.OdinSerializer.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.Udon.VM.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.Udon.VRCWrapperModules.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.Udon.Wrapper.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.UI.Core.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.UI.Elements.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.UI.Shared.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRC.Utility.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRCCore-Editor.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRCCore-Standalone.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRCLog.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRCSDK2.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRCSDK3.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRCSDK3A.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/VRCSDKBase.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/obj/Debug/net48/EggClient.csproj.AssemblyReference.cache
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/obj/Debug/net48/EggClient.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/obj/Debug/net48/EggClient.AssemblyInfoInputs.cache
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/obj/Debug/net48/EggClient.AssemblyInfo.cs
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/obj/Debug/net48/EggClient.csproj.CoreCompileInputs.cache
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/obj/Debug/net48/EggClient.csproj.CopyComplete
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/obj/Debug/net48/EggClient.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/obj/Debug/net48/EggClient.pdb
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/UnityEngine.Il2CppImageConversionManager.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Iced.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/Assembly-CSharp-firstpass.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/websocket-sharp.dll
+C:/Users/joshu/OneDrive/Desktop/Murder hacks/EggClient/bin/Debug/net48/DataModel.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/EggClient.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/EggClient.pdb
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Newtonsoft.Json.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Assembly-CSharp-firstpass.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Assembly-CSharp.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/DataModel.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppMono.Security.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2Cppmscorlib.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Buffers.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Collections.Immutable.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Configuration.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Core.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Diagnostics.StackTrace.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Globalization.Extensions.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.IO.Compression.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Memory.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Numerics.Vectors.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Runtime.CompilerServices.Unsafe.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Runtime.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Runtime.Serialization.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Threading.Tasks.Extensions.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.ValueTuple.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Xml.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Xml.Linq.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/MelonLoader.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Photon-DotNet.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnhollowerBaseLib.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnhollowerRuntimeLib.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UniTask.Addressables.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UniTask.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UniTask.DOTween.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UniTask.Linq.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UniTask.TextMeshPro.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Unity.Burst.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Unity.Burst.Unsafe.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Unity.InputSystem.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Unity.Mathematics.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Unity.Postprocessing.Runtime.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Unity.TextMeshPro.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/Unity.Timeline.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.AccessibilityModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.AIModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.AndroidJNIModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.AnimationModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.ARModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.AssetBundleModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.AudioModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.ClothModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.CoreModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.CrashReportingModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.DirectorModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.DSPGraphModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.GameCenterModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.GridModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.HotReloadModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.Il2CppImageConversionManager.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.ImageConversionModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.IMGUIModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.InputLegacyModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.InputModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.JSONSerializeModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.LocalizationModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.ParticleSystemModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.PerformanceReportingModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.Physics2DModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.PhysicsModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.ProfilerModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.ScreenCaptureModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.SharedInternalsModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.SpriteMaskModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.SpriteShapeModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.StreamingModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.SubstanceModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.SubsystemsModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.TerrainModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.TerrainPhysicsModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.TextCoreModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.TextRenderingModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.TilemapModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.TLSModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.UI.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.UIElementsModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.UIModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.UmbraModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.UNETModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityAnalyticsModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityConnectModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityTestProtocolModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestAudioModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestTextureModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestWWWModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.VehiclesModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.VFXModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.VideoModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.VRModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.WindModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/UnityEngine.XRModule.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.Collections.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.Dynamics.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.SDK3.Dynamics.Contact.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.SDK3.Dynamics.PhysBone.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.SDKBase.Editor.BuildPipeline.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.Udon.ClientBindings.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.Udon.Common.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.Udon.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.Udon.Security.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.Udon.Serialization.AOT.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.Udon.Serialization.OdinSerializer.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.Udon.VM.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.Udon.VRCWrapperModules.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.Udon.Wrapper.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.UI.Core.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.UI.Elements.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.UI.Shared.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRC.Utility.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRCCore-Editor.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRCCore-Standalone.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRCLog.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRCSDK2.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRCSDK3.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRCSDK3A.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/VRCSDKBase.dll
+/home/foonix/EggClient/EggClient/bin/Debug/net48/websocket-sharp.dll
+/home/foonix/EggClient/EggClient/obj/Debug/net48/EggClient.csproj.AssemblyReference.cache
+/home/foonix/EggClient/EggClient/obj/Debug/net48/EggClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/foonix/EggClient/EggClient/obj/Debug/net48/EggClient.AssemblyInfoInputs.cache
+/home/foonix/EggClient/EggClient/obj/Debug/net48/EggClient.AssemblyInfo.cs
+/home/foonix/EggClient/EggClient/obj/Debug/net48/EggClient.csproj.CoreCompileInputs.cache
+/home/foonix/EggClient/EggClient/obj/Debug/net48/EggClient.csproj.CopyComplete
+/home/foonix/EggClient/EggClient/obj/Debug/net48/EggClient.dll
+/home/foonix/EggClient/EggClient/obj/Debug/net48/EggClient.pdb
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/EggClient.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/EggClient.pdb
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Newtonsoft.Json.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Assembly-CSharp-firstpass.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Assembly-CSharp.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/DataModel.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppMono.Security.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2Cppmscorlib.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Buffers.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Collections.Immutable.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Configuration.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Core.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Diagnostics.StackTrace.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Globalization.Extensions.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.IO.Compression.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Memory.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Numerics.Vectors.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Runtime.CompilerServices.Unsafe.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Runtime.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Runtime.Serialization.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Threading.Tasks.Extensions.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.ValueTuple.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Xml.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Il2CppSystem.Xml.Linq.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/MelonLoader.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Photon-DotNet.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnhollowerBaseLib.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnhollowerRuntimeLib.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UniTask.Addressables.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UniTask.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UniTask.DOTween.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UniTask.Linq.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UniTask.TextMeshPro.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Unity.Burst.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Unity.Burst.Unsafe.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Unity.InputSystem.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Unity.Mathematics.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Unity.Postprocessing.Runtime.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Unity.TextMeshPro.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/Unity.Timeline.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.AccessibilityModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.AIModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.AndroidJNIModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.AnimationModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.ARModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.AssetBundleModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.AudioModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.ClothModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.CoreModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.CrashReportingModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.DirectorModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.DSPGraphModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.GameCenterModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.GridModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.HotReloadModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.Il2CppImageConversionManager.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.ImageConversionModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.IMGUIModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.InputLegacyModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.InputModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.JSONSerializeModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.LocalizationModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.ParticleSystemModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.PerformanceReportingModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.Physics2DModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.PhysicsModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.ProfilerModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.ScreenCaptureModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.SharedInternalsModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.SpriteMaskModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.SpriteShapeModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.StreamingModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.SubstanceModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.SubsystemsModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.TerrainModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.TerrainPhysicsModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.TextCoreModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.TextRenderingModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.TilemapModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.TLSModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.UI.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.UIElementsModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.UIModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.UmbraModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.UNETModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityAnalyticsModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityConnectModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityTestProtocolModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestAudioModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestTextureModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.UnityWebRequestWWWModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.VehiclesModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.VFXModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.VideoModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.VRModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.WindModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/UnityEngine.XRModule.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.Collections.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.Dynamics.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.SDK3.Dynamics.Contact.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.SDK3.Dynamics.PhysBone.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.SDKBase.Editor.BuildPipeline.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.Udon.ClientBindings.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.Udon.Common.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.Udon.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.Udon.Security.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.Udon.Serialization.AOT.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.Udon.Serialization.OdinSerializer.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.Udon.VM.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.Udon.VRCWrapperModules.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.Udon.Wrapper.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.UI.Core.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.UI.Elements.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.UI.Shared.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRC.Utility.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRCCore-Editor.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRCCore-Standalone.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRCLog.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRCSDK2.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRCSDK3.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRCSDK3A.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/VRCSDKBase.dll
+C:/Users/joshu/Documents/EggClient/EggClient/bin/Debug/net48/websocket-sharp.dll
+C:/Users/joshu/Documents/EggClient/EggClient/obj/Debug/net48/EggClient.csproj.AssemblyReference.cache
+C:/Users/joshu/Documents/EggClient/EggClient/obj/Debug/net48/EggClient.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/joshu/Documents/EggClient/EggClient/obj/Debug/net48/EggClient.AssemblyInfoInputs.cache
+C:/Users/joshu/Documents/EggClient/EggClient/obj/Debug/net48/EggClient.AssemblyInfo.cs
+C:/Users/joshu/Documents/EggClient/EggClient/obj/Debug/net48/EggClient.csproj.CoreCompileInputs.cache
+C:/Users/joshu/Documents/EggClient/EggClient/obj/Debug/net48/EggClient.csproj.CopyComplete
+C:/Users/joshu/Documents/EggClient/EggClient/obj/Debug/net48/EggClient.dll
+C:/Users/joshu/Documents/EggClient/EggClient/obj/Debug/net48/EggClient.pdb
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\EggClient.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\EggClient.pdb
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Assembly-CSharp-firstpass.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Assembly-CSharp.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\DataModel.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppMono.Security.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2Cppmscorlib.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.Buffers.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.Collections.Immutable.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.Configuration.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.Core.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.Diagnostics.StackTrace.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.Globalization.Extensions.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.IO.Compression.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.Memory.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.Numerics.Vectors.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.Runtime.CompilerServices.Unsafe.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.Runtime.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.Runtime.Serialization.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.Threading.Tasks.Extensions.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.ValueTuple.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.Xml.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Il2CppSystem.Xml.Linq.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\MelonLoader.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Photon-DotNet.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnhollowerBaseLib.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnhollowerRuntimeLib.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UniTask.Addressables.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UniTask.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UniTask.DOTween.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UniTask.Linq.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UniTask.TextMeshPro.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Unity.Burst.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Unity.Burst.Unsafe.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Unity.InputSystem.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Unity.Mathematics.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Unity.Postprocessing.Runtime.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Unity.TextMeshPro.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\Unity.Timeline.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.AccessibilityModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.AIModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.AndroidJNIModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.AnimationModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.ARModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.AssetBundleModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.AudioModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.ClothModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.CoreModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.CrashReportingModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.DirectorModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.DSPGraphModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.GameCenterModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.GridModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.HotReloadModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.Il2CppImageConversionManager.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.ImageConversionModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.IMGUIModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.InputLegacyModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.InputModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.JSONSerializeModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.LocalizationModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.ParticleSystemModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.PerformanceReportingModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.Physics2DModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.PhysicsModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.ProfilerModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.ScreenCaptureModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.SharedInternalsModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.SpriteMaskModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.SpriteShapeModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.StreamingModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.SubstanceModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.SubsystemsModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.TerrainModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.TextCoreModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.TextRenderingModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.TilemapModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.TLSModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.UI.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.UIElementsModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.UIModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.UmbraModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.UNETModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.UnityConnectModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.UnityWebRequestModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.VehiclesModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.VFXModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.VideoModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.VRModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.WindModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\UnityEngine.XRModule.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.Collections.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.Dynamics.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.SDK3.Dynamics.Contact.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.SDK3.Dynamics.PhysBone.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.SDKBase.Editor.BuildPipeline.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.Udon.ClientBindings.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.Udon.Common.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.Udon.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.Udon.Security.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.Udon.Serialization.AOT.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.Udon.Serialization.OdinSerializer.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.Udon.VM.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.Udon.VRCWrapperModules.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.Udon.Wrapper.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.UI.Core.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.UI.Elements.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.UI.Shared.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRC.Utility.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRCCore-Editor.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRCCore-Standalone.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRCLog.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRCSDK2.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRCSDK3.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRCSDK3A.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\VRCSDKBase.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\bin\Debug\net48\websocket-sharp.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\obj\Debug\net48\EggClient.csproj.AssemblyReference.cache
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\obj\Debug\net48\EggClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\obj\Debug\net48\EggClient.AssemblyInfoInputs.cache
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\obj\Debug\net48\EggClient.AssemblyInfo.cs
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\obj\Debug\net48\EggClient.csproj.CoreCompileInputs.cache
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\obj\Debug\net48\EggClient.csproj.CopyComplete
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\obj\Debug\net48\EggClient.dll
+C:\Users\baker\Downloads\EggClient-Quest-master_2\eggclient-quest\EggClient\obj\Debug\net48\EggClient.pdb

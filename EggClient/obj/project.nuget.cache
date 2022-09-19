@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nv4MX/qcW3l/PIHZH5AO8C/fXgbBkiIuQZ1EesZ10u/eZmGGkUBUVCgDsw+zv/PUrMKwWeAHDvp3d4ceyjTyBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\baker\\Downloads\\EggClient-Quest-master_2\\eggclient-quest\\EggClient\\EggClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baker\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

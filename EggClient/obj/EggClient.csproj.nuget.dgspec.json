@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\baker\\Downloads\\EggClient-Quest-master_2\\eggclient-quest\\EggClient\\EggClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\baker\\Downloads\\EggClient-Quest-master_2\\eggclient-quest\\EggClient\\EggClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\baker\\Downloads\\EggClient-Quest-master_2\\eggclient-quest\\EggClient\\EggClient.csproj",
+        "projectName": "EggClient",
+        "projectPath": "C:\\Users\\baker\\Downloads\\EggClient-Quest-master_2\\eggclient-quest\\EggClient\\EggClient.csproj",
+        "packagesPath": "C:\\Users\\baker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baker\\Downloads\\EggClient-Quest-master_2\\eggclient-quest\\EggClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\baker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

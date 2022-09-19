@@ -1,0 +1,1748 @@
+[DOTween]
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/ControllerUIQuestRight(Clone)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/ControllerUIQuestLeft(Clone)
+PlayerManager
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/BackLoadingScreenWorldImage
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/BackLoadingScreen
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/FrontLoadingScreenWorldImage
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/FrontLoadingScreen
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/CubemapSkybox
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/PalmOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/GripOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/GunOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/PointerOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/WristOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/PalmOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/GripOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/GunOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/WristOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/PointerOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left
+_Application/TrackingVolume/TrackingHandProxy(Clone)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/RightControllerAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/PalmOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/WristOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/PointerOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/GunOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/GripOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/LeftControllerAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/PalmOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/WristOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/PointerOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/GunOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/GripOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/TrackerAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightEyeAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/CenterEyeAnchor/Ear
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/CenterEyeAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftEyeAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig
+_Application/TrackingVolume/TrackingQuest(Clone)
+OVRTouchpadHelper
+PhotonMono 9D799
+New Game Object
+_Application/GraphicsManager
+_Application/ApplicationSetup
+_Application/TrackingVolume/PlayerObjects
+_Application/UIManager/InfoPushSystemManager
+_Application/TrackingVolume/IMDraw
+_Application/FriendsListManager
+_Application/UIManager
+_Application/NameplateManager
+_Application/UIManager/AvatarsManager
+_Application
+_Application/UIManager/Emotes
+_Application/CursorManager/SelectedOutlinePrimary
+_Application/AnalyticsManager
+_Application/TrackingVolume
+_Application/RoomManager
+_Application/InputManager
+_Application/NotificationManager
+_Application/HMDManager
+_Application/NetworkManager
+_Application/CursorManager/SelectedOutlineSecondary
+_Application/UiEventSystem
+_Application/PanoramaCapture
+_Application/AudioManager
+_Application/CursorManager
+_Application/TrackingVolume/VRLoadingOverlay
+_Application/OscMidiManager
+_Application/AssetBundleDownloadManager
+_Application/AudioManager/OculusSpatializerSettings
+_Application/PerformanceManager
+_Application/PermissionsManager
+_Application/AudioManager/OVRLipSync
+_Application/Updators
+_Application/LogManager
+_Application/TrackingVolume/PlayerObjects/PersonalMirror
+_Application/ColorCorrectionManager
+_Application/UIManager/UIInputManager
+_Application/UIManager/SelectedUserManager
+_Application/UIManager/PlayerInputManager
+_Application/PlayableManager
+_Application/UIManager/Settings
+_Application/UIManager/TextureManager
+_Application/AssetManagement
+_Application/TrackingVolume/PlayerObjects/UserCamera/LensTarget
+_Application/TrackingVolume/PlayerObjects/UserCamera
+_Application/UIManager/DataModelManager
+_Application/FPVCameraController
+_Application/InviteAndResponseManager
+_Application/FontManager
+_Application/AvatarDynamics
+_Application/UdonManager
+_Application/ControllerBindingsManager
+_Application/UIManager/DevTools
+_Application/AvatarDynamics/IMDraw
+_Application/FlowManager
+_Application/StatusManager
+_Application/HeadlessManager
+_Application/UIManager/EmojiManager
+UserInterface/MenuContent/Screens
+UserInterface/UnscaledUI/HudContent_Old/Hud/HUDMirror
+UserInterface/UnscaledUI/HudContent
+UserInterface/MenuContent/Interupts
+UserInterface
+UserInterface/MenuContent/MenuAudio
+UserInterface/MenuContent/Screens/Authentication
+UserInterface/MenuContent/Popups/InputCaptchaPopup
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:1
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:8
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:10
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:9/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:6
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:8
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:7
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:11
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:9
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:3
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:3
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:3
+UserInterface/MenuContent/Popups/InputCaptchaPopup/ButtonLeft
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:1
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:7
+UserInterface/MenuContent/Popups/InputCaptchaPopup/TitleText
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:8
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:4
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:6
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:2
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:4
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:8
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:13
+UserInterface/MenuContent/Popups/InputCaptchaPopup/ButtonRight
+UserInterface/MenuContent/Popups/InputCaptchaPopup/ButtonCenter
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Rectangle
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:12
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:2
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:6
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:5
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:0
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Darkness
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:5
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:1
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:9
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:9
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:10
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:0
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:2
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:11
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:9
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:7
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:4
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:6
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:0
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:4
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:7
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:11
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:12
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:5
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:3
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:5
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 5/Row:4 Column:0
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:2
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:0
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:10
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:10
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:1
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 5
+UserInterface/MenuContent/Backdrop
+UserInterface/MenuContent/Popups
+UserInterface/QuickMenuLoader
+UserInterface/MenuContent
+UserInterface/MenuContent/Screens/FirstLogin
+EventSystem
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:0/Text
+UserInterface/LoadingBackground_TealGradient_Music/_Lighting (1)
+UserInterface/UnscaledUI/HudContent_Old/Hud/VoiceDotParent/VoiceDotDisabled
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:3/Text
+UserInterface/PlayerDisplay
+UserInterface/LoadingBackground_TealGradient_Music/_Lighting (1)/Light Probe Group
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:4/Text
+UserInterface/LoadingBackground_TealGradient_Music/SkyCube_Baked
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:1/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:3/Text
+UserInterface/UnscaledUI/HudContent_Old/UiHudTextureCamera
+UserInterface/UnscaledUI/HudContent_Old/Hud/VoiceDotParent
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:4/Text
+UserInterface/UnscaledUI/HudContent_Old/Hud/VoiceDotParent/VoiceDot
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:2/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:4/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/ButtonLeft/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:6/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:2/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:3/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:6/Text
+UserInterface/UnscaledUI/HudContent_Old/Hud/ReticleParent/Reticle
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:8/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:1/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:10/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:10/Text
+UserInterface/PlayerDisplay/BlackFade/inverted_sphere
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:4/Text
+UserInterface/LoadingBackground_TealGradient_Music/_FX_ParticleBubbles/FX_CloseParticles
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:5/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:0/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:5/Text
+UserInterface/LoadingBackground_TealGradient_Music/_FX_ParticleBubbles/FX_snow
+UserInterface/PlayerDisplay/BlackFade
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:0/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:1/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:11/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:3/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 5/Row:4 Column:0/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:2/Text
+UserInterface/LoadingBackground_TealGradient_Music/LoadingSound
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:8/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/ButtonCenter/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:7/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:6/Text
+UserInterface/PlayerDisplay/WorldHudDisplay
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:8/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:13/Image
+UserInterface/DebugUI
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:2/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/ButtonRight/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:11/Text
+UserInterface/Watermark
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:6/Text
+UserInterface/LoadingBackground_TealGradient_Music/_FX_ParticleBubbles
+UserInterface/LoadingBackground_TealGradient_Music/_Lighting (1)/Point light
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:12/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:9/Text
+UserInterface/UnscaledUI/HudContent_Old/Hud/NotificationDotParent
+UserInterface/PlayerDisplay/WorldHudDisplay/MenuMesh
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:5/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:5/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:9/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:0/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:8/Text
+UserInterface/UnscaledUI/HudContent_Old/Hud/ReticleParent
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 4/Row:3 Column:7/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:12/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 2/Row:1 Column:9/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:10/Text
+UserInterface/UnscaledUI/HudContent_Old/Hud
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:10/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:7/Text
+UserInterface/UnscaledUI/HudContent_Old/Hud/AlertTextParent
+UserInterface/UnscaledUI/HudContent_Old/Hud/DynamicMounting
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:7/Text
+UserInterface/UnscaledUI/HudContent_Old/Hud/GestureToggleParent
+UserInterface/LoadingBackground_TealGradient_Music
+UserInterface/LoadingBackground_TealGradient_Music/_Lighting (1)/Reflection Probe
+UserInterface/UnscaledUI/HudContent_Old/Hud/AlertTextParent/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Rectangle/Panel
+UserInterface/UnscaledUI/HudContent_Old
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 3/Row:2 Column:11/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/Keyboard/Keys/Row 1/Row:0 Column:1/Text
+UserInterface/ActionMenu/Container/MenuR/ActionMenu/Main/Dividers
+UserInterface/ActionMenu/Container/MenuR/ActionMenu/Main/Cursor
+UserInterface/UnscaledUI/HudContent/Canvas/ReticleParent/Reticle
+UserInterface/UnscaledUI/HudContent/Canvas/ReticleParent
+UserInterface/MenuContent/Popups/InputCaptchaPopup/InputField/TexMask/Text
+UserInterface/MenuContent/Popups/InputCaptchaPopup/InputField/Placeholder
+UserInterface/UnscaledUI/HudContent/Canvas
+UserInterface/UnscaledUI
+UserInterface/UnscaledUI/HudContent_Old/Hud/Ask To Portal Prompt
+UserInterface/UnscaledUI/HudContent_Old/Hud/Gesture Bar
+UserInterface/MenuContent/Popups/InputCaptchaPopup/InputField/TexMask
+UserInterface/ActionMenu/Container
+UserInterface/ActionMenu/Container/MenuR/ActionMenu/Main/Center
+UserInterface/UnscaledUI/HudContent_Old/Hud/AFK
+UserInterface/ActionMenu/Container/MenuR/ActionMenu/Main/Options
+UserInterface/UnscaledUI/HudContent_Old/Hud/Gesture Bar/Right Gesture
+UserInterface/ActionMenu/Container/MenuR/ActionMenu/Main/Background
+UserInterface/ActionMenu/Container/MoveMenuL
+UserInterface/ActionMenu/Container/MenuR
+UserInterface/ActionMenu/Container/MenuR/ActionMenu/Main
+UserInterface/ActionMenu/Container/MenuL
+UserInterface/ActionMenu/Container/MenuR/ActionMenu
+UserInterface/UnscaledUI/HudContent_Old/Hud/Ask To Portal Prompt/Button Image/Button Text
+UserInterface/UnscaledUI/HudContent_Old/Hud/Ask To Portal Prompt/Button Image
+UserInterface/ActionMenu/Container/MoveMenuR
+UserInterface/ActionMenu
+UserInterface/MenuContent/Popups/InputCaptchaPopup/CharactersRemainingText
+UserInterface/MenuContent/Popups/InputCaptchaPopup/InputField
+UserInterface/UnscaledUI/HudContent_Old/Hud/Gesture Bar/Left Gesture
+UserInterface/ActionMenu/Container/MenuR/ActionMenu/Main/Path
+UserInterface/MenuContent/Popups/InputCaptchaPopup/CaptchaImage
+UserInterface/UnscaledUI/HudContent/HUD_UI 2(Clone)/Desktop Canvas/Right Desktop Anchor
+UserInterface/UnscaledUI/HudContent/HUD_UI 2(Clone)/Desktop Canvas/Center Desktop Anchor
+UserInterface/UnscaledUI/HudContent/HUD_UI 2(Clone)/Desktop Canvas/Left Desktop Anchor
+UserInterface/UnscaledUI/HudContent/HUD_UI 2(Clone)/Desktop Canvas
+UserInterface/UnscaledUI/HudContent/HUD_UI 2(Clone)
+[DOTween]
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/ControllerUIQuestRight(Clone)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/ControllerUIQuestLeft(Clone)
+PlayerManager
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/BackLoadingScreenWorldImage
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/BackLoadingScreen
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/FrontLoadingScreenWorldImage
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/FrontLoadingScreen
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/CubemapSkybox
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/PalmOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/GripOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/GunOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/PointerOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/WristOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/PalmOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/GripOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/GunOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/WristOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/PointerOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left
+_Application/TrackingVolume/TrackingHandProxy(Clone)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/RightControllerAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/PalmOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/WristOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/PointerOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/GunOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/GripOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/LeftControllerAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/PalmOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/WristOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/PointerOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/GunOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/GripOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/TrackerAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightEyeAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/CenterEyeAnchor/Ear
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/CenterEyeAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftEyeAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig
+_Application/TrackingVolume/TrackingQuest(Clone)
+OVRTouchpadHelper
+PhotonMono 9D799
+New Game Object
+_Application/GraphicsManager
+_Application/ApplicationSetup
+_Application/TrackingVolume/PlayerObjects
+_Application/UIManager/InfoPushSystemManager
+_Application/TrackingVolume/IMDraw
+_Application/FriendsListManager
+_Application/UIManager
+_Application/NameplateManager
+_Application/UIManager/AvatarsManager
+_Application
+_Application/UIManager/Emotes
+_Application/CursorManager/SelectedOutlinePrimary
+_Application/AnalyticsManager
+_Application/TrackingVolume
+_Application/RoomManager
+_Application/InputManager
+_Application/NotificationManager
+_Application/HMDManager
+_Application/NetworkManager
+_Application/CursorManager/SelectedOutlineSecondary
+_Application/UiEventSystem
+_Application/PanoramaCapture
+_Application/AudioManager
+_Application/CursorManager
+_Application/TrackingVolume/VRLoadingOverlay
+_Application/OscMidiManager
+_Application/AssetBundleDownloadManager
+_Application/AudioManager/OculusSpatializerSettings
+_Application/PerformanceManager
+_Application/PermissionsManager
+_Application/AudioManager/OVRLipSync
+_Application/Updators
+_Application/LogManager
+_Application/TrackingVolume/PlayerObjects/PersonalMirror
+_Application/ColorCorrectionManager
+_Application/UIManager/UIInputManager
+_Application/UIManager/SelectedUserManager
+_Application/UIManager/PlayerInputManager
+_Application/PlayableManager
+_Application/UIManager/Settings
+_Application/UIManager/TextureManager
+_Application/AssetManagement
+_Application/TrackingVolume/PlayerObjects/UserCamera/LensTarget
+_Application/TrackingVolume/PlayerObjects/UserCamera
+_Application/UIManager/DataModelManager
+_Application/FPVCameraController
+_Application/InviteAndResponseManager
+_Application/FontManager
+_Application/AvatarDynamics
+_Application/UdonManager
+_Application/ControllerBindingsManager
+_Application/UIManager/DevTools
+_Application/AvatarDynamics/IMDraw
+_Application/FlowManager
+_Application/StatusManager
+_Application/HeadlessManager
+_Application/UIManager/EmojiManager
+UserInterface/MenuContent/Screens
+UserInterface/UnscaledUI/HudContent
+UserInterface/MenuContent/Interupts
+UserInterface
+UserInterface/MenuContent/MenuAudio
+UserInterface/MenuContent/Screens/Authentication
+UserInterface/MenuContent/Backdrop
+UserInterface/MenuContent/Popups
+UserInterface/QuickMenuLoader
+UserInterface/MenuContent
+UserInterface/MenuContent/Screens/FirstLogin
+EventSystem
+UserInterface/LoadingBackground_TealGradient_Music/_Lighting (1)
+UserInterface/PlayerDisplay
+UserInterface/LoadingBackground_TealGradient_Music/_Lighting (1)/Light Probe Group
+UserInterface/LoadingBackground_TealGradient_Music/SkyCube_Baked
+UserInterface/PlayerDisplay/BlackFade/inverted_sphere
+UserInterface/LoadingBackground_TealGradient_Music/_FX_ParticleBubbles/FX_CloseParticles
+UserInterface/LoadingBackground_TealGradient_Music/_FX_ParticleBubbles/FX_snow
+UserInterface/PlayerDisplay/BlackFade
+UserInterface/LoadingBackground_TealGradient_Music/LoadingSound
+UserInterface/DebugUI
+UserInterface/Watermark
+UserInterface/LoadingBackground_TealGradient_Music/_FX_ParticleBubbles
+UserInterface/LoadingBackground_TealGradient_Music/_Lighting (1)/Point light
+UserInterface/LoadingBackground_TealGradient_Music
+UserInterface/LoadingBackground_TealGradient_Music/_Lighting (1)/Reflection Probe
+UserInterface/UnscaledUI/HudContent/Canvas/ReticleParent/Reticle
+UserInterface/UnscaledUI/HudContent/Canvas/ReticleParent
+UserInterface/UnscaledUI/HudContent/Canvas
+UserInterface/UnscaledUI
+UserInterface/ActionMenu/Container
+UserInterface/ActionMenu/Container/MoveMenuL
+UserInterface/ActionMenu/Container/MenuR
+UserInterface/ActionMenu/Container/MenuL
+UserInterface/ActionMenu/Container/MoveMenuR
+UserInterface/ActionMenu
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/AvatarPedestal(Clone)/PlatformIconBack/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/AvatarPedestal(Clone)/PlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/AvatarPedestal(Clone)/PlatformIconFront/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/AvatarPedestal(Clone)/PlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/AvatarPedestal(Clone)/ForwardDirection
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/AvatarPedestal(Clone)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/AvatarPedestal(Clone)/PlatformIconBack/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/AvatarPedestal(Clone)/PlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/AvatarPedestal(Clone)/PlatformIconFront/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/AvatarPedestal(Clone)/PlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/AvatarPedestal(Clone)/ForwardDirection
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/AvatarPedestal(Clone)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/AvatarPedestal(Clone)/PlatformIconBack/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/AvatarPedestal(Clone)/PlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/AvatarPedestal(Clone)/PlatformIconFront/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/AvatarPedestal(Clone)/PlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/AvatarPedestal(Clone)/ForwardDirection
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/AvatarPedestal(Clone)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/AvatarPedestal(Clone)/PlatformIconBack/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/AvatarPedestal(Clone)/PlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/AvatarPedestal(Clone)/PlatformIconFront/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/AvatarPedestal(Clone)/PlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/AvatarPedestal(Clone)/ForwardDirection
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/AvatarPedestal(Clone)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/AvatarPedestal(Clone)/PlatformIconBack/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/AvatarPedestal(Clone)/PlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/AvatarPedestal(Clone)/PlatformIconFront/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/AvatarPedestal(Clone)/PlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/AvatarPedestal(Clone)/ForwardDirection
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/AvatarPedestal(Clone)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/AvatarPedestal(Clone)/PlatformIconBack/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/AvatarPedestal(Clone)/PlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/AvatarPedestal(Clone)/PlatformIconFront/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/AvatarPedestal(Clone)/PlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/AvatarPedestal(Clone)/ForwardDirection
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/AvatarPedestal(Clone)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/AvatarPedestal(Clone)/PlatformIconBack/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/AvatarPedestal(Clone)/PlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/AvatarPedestal(Clone)/PlatformIconFront/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/AvatarPedestal(Clone)/PlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/AvatarPedestal(Clone)/ForwardDirection
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/AvatarPedestal(Clone)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/AvatarPedestal(Clone)/PlatformIconBack/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/AvatarPedestal(Clone)/PlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/AvatarPedestal(Clone)/PlatformIconFront/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/AvatarPedestal(Clone)/PlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/AvatarPedestal(Clone)/ForwardDirection
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/AvatarPedestal(Clone)
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)
+Oculus.Platform.CallbackRunner
+UserInterface/UnscaledUI/HudContent/HUD_UI 2(Clone)/Desktop Canvas/Right Desktop Anchor
+UserInterface/UnscaledUI/HudContent/HUD_UI 2(Clone)/Desktop Canvas/Center Desktop Anchor
+UserInterface/UnscaledUI/HudContent/HUD_UI 2(Clone)/Desktop Canvas/Left Desktop Anchor
+UserInterface/UnscaledUI/HudContent/HUD_UI 2(Clone)/Desktop Canvas
+UserInterface/UnscaledUI/HudContent/HUD_UI 2(Clone)
+[DOTween]
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/ControllerUIQuestRight(Clone)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/ControllerUIQuestLeft(Clone)
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/BackLoadingScreenWorldImage
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/BackLoadingScreen
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/FrontLoadingScreenWorldImage
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/FrontLoadingScreen
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/CubemapSkybox
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/PalmOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/GripOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/GunOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/PointerOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/WristOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/PalmOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/GripOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/GunOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/WristOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/PointerOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left
+_Application/TrackingVolume/TrackingHandProxy(Clone)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/RightControllerAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/PalmOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/WristOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/PointerOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/GunOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/GripOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/LeftControllerAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/PalmOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/WristOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/PointerOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/GunOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/GripOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/TrackerAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightEyeAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/CenterEyeAnchor/Ear
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/CenterEyeAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftEyeAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig
+_Application/TrackingVolume/TrackingQuest(Clone)
+PhotonMono 9D799
+New Game Object
+_Application/GraphicsManager
+_Application/ApplicationSetup
+_Application/TrackingVolume/PlayerObjects
+_Application/UIManager/InfoPushSystemManager
+_Application/TrackingVolume/IMDraw
+_Application/FriendsListManager
+_Application/UIManager
+_Application/NameplateManager
+_Application/UIManager/AvatarsManager
+_Application
+_Application/UIManager/Emotes
+_Application/CursorManager/SelectedOutlinePrimary
+_Application/AnalyticsManager
+_Application/TrackingVolume
+_Application/RoomManager
+_Application/InputManager
+_Application/NotificationManager
+_Application/HMDManager
+_Application/NetworkManager
+_Application/CursorManager/SelectedOutlineSecondary
+_Application/UiEventSystem
+_Application/PanoramaCapture
+_Application/AudioManager
+_Application/CursorManager
+_Application/TrackingVolume/VRLoadingOverlay
+_Application/OscMidiManager
+_Application/AssetBundleDownloadManager
+_Application/AudioManager/OculusSpatializerSettings
+_Application/PerformanceManager
+_Application/PermissionsManager
+_Application/AudioManager/OVRLipSync
+_Application/Updators
+_Application/LogManager
+_Application/TrackingVolume/PlayerObjects/PersonalMirror
+_Application/ColorCorrectionManager
+_Application/UIManager/UIInputManager
+_Application/UIManager/SelectedUserManager
+_Application/UIManager/PlayerInputManager
+_Application/PlayableManager
+_Application/UIManager/Settings
+_Application/UIManager/TextureManager
+_Application/AssetManagement
+_Application/TrackingVolume/PlayerObjects/UserCamera/LensTarget
+_Application/TrackingVolume/PlayerObjects/UserCamera
+_Application/UIManager/DataModelManager
+_Application/FPVCameraController
+_Application/InviteAndResponseManager
+_Application/FontManager
+_Application/AvatarDynamics
+_Application/UdonManager
+_Application/ControllerBindingsManager
+_Application/UIManager/DevTools
+_Application/AvatarDynamics/IMDraw
+_Application/FlowManager
+_Application/StatusManager
+_Application/HeadlessManager
+_Application/UIManager/EmojiManager
+UserInterface/MenuContent/Screens
+UserInterface/UnscaledUI/HudContent
+UserInterface/MenuContent/Interupts
+UserInterface
+UserInterface/MenuContent/MenuAudio
+UserInterface/MenuContent/Screens/Authentication
+UserInterface/MenuContent/Backdrop
+UserInterface/MenuContent/Popups
+UserInterface/QuickMenuLoader
+UserInterface/MenuContent
+UserInterface/MenuContent/Screens/FirstLogin
+UserInterface/PlayerDisplay
+UserInterface/PlayerDisplay/BlackFade/inverted_sphere
+UserInterface/PlayerDisplay/BlackFade
+UserInterface/DebugUI
+UserInterface/Watermark
+UserInterface/UnscaledUI/HudContent/Canvas/ReticleParent/Reticle
+UserInterface/UnscaledUI/HudContent/Canvas/ReticleParent
+UserInterface/UnscaledUI/HudContent/Canvas
+UserInterface/UnscaledUI
+UserInterface/ActionMenu
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 1_top/_audiosource_Boop
+_PORTALS/Portal_Channels/V12_standard_set/1
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (11)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (5)
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Page_Header
+_TOYS/_Pickups/Vase_4
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (3)
+_SEASONAL
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (1)/Sphere (1)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/plant_12
+_CORE_SCENE/_Level_Core_Night/Studio_pedestal2 (1)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (48)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/plant_12 (3)
+_CORE_SCENE/_Level_Core_Night/stars/star
+_CORE_SCENE/_Level_Core_Night/stars/star (3)
+_TOYS/_Pickups/Pilllow_2
+_CORE_SCENE/_Level_Core_Night/stars/star (4)
+_PORTALS/Portal_Channels
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (5)/poster_AddFriend
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6/Light_foot/Sphere (3)
+_UI/UI_Avatars/PageSwitching/PageButtonsTop
+_TOYS/Pens_Export/Lines/StylusLines (3)
+_PORTALS/Portal_HUB_jam
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/HomeAtlased_MESH
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 2_top/_Particle_Flash_burst_confirm
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/FirePit_2/FireGlow
+_SEATS
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/HeroTree
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/HoloPod
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (4)/plant_12 (8)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (2)
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 3_top
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Hub_portal_Point
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 2_bottom/Button/Button_Number
+_UI/ENVIRONMENT/UI_WorldUI/Canvas/Panel
+_CORE_SCENE/_Level_Core_Night/stars/star (16)
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (8)/Quad (6)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/plant_12 (2)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/VRChat_logo (1)/pasted__pasted__group6
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 1_bottom/_audiosource_Boop
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (11)/Quad (6)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnTree_a (1)
+_PORTALS/Portal_Channels/V12_standard_set
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (12)
+_AUDIO
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/Posters
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (2)
+_CORE_SCENE/_Level_Core_Night/stars/star (14)
+_UI/ENVIRONMENT/UI_WorldUI/Canvas/Button_day/Text
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 1_top
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel/prop_infoPanel (1)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 3_bottom/Button/Button_Number
+_CORE_SCENE/_Lighting_Core/_Lights/Sun_0
+_TOYS/_Pickups/Vase_1
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 1_bottom/_Particle_Flash_burst_confirm
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (2)/prop_infoPanel (1)
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/Floor
+_Cameras/Main Camera
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnBush_a (2)
+_CORE_SCENE/_Level_Core_Night/mirror_lamp
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/placement
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (10)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnTree_a (2)
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 3_top/Button
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 3_top/_Particle_Flash_burst_confirm
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic/Spotlight (3)
+_TOYS/Pens_Export/Pens/Stylus (3)/Anchor
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (4)/plant_12 (7)
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP
+_TOYS/Pens_Export/Lines/StylusLines (3)/Line (1)
+spawn
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/VRChat_logo (1)/Graphics_Welcome
+_UI/ENVIRONMENT/UI_WorldUI/Canvas/Panel/Text
+_MIRROR
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/plant_12 (4)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (5)
+_CORE_SCENE/_Lighting_Core/_Probes/Reflection Probe (3)
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic/Point light (51)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (5)/prop_infoPanel (1)
+_CORE_SCENE/_Level_Core_Night/stars/star (6)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (55)
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (6)/Sphere (1)
+_UI
+_TOYS/Pens_Export/Lines/StylusLines (3)/Line (5)
+_TOYS/Pens_Export/Pens/Stylus (3)/Tip
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel
+_TOYS/Pens_Export/Lines/StylusLines (2)
+_PORTALS/Portal_Avatar3
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (1)
+_UI/UI_Avatars
+_UI/ENVIRONMENT
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 1_bottom
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnBush_a (1)
+_CORE_SCENE/_FX_Core
+_CORE_SCENE/_Level_Core_Night/stars/star (2)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 2_bottom/Button
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (4)
+LocomotionUIContainer/VRLocoCanvas/VR/Header (1)
+_SEATS/_FireChairs
+_CORE_SCENE/_Level_Core_Night/stars/star (1)
+_TOYS/Pens_Export/Lines/StylusLines (2)/Line (2)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/Posters/Quad (5)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (51)
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic/Point light (52)
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 2_top
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic/Point light (2)
+_CORE_SCENE/_Level_Core_Night/stars/star (5)
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (4)
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (5)
+VRCWorld
+_TOYS/Pens_Export/Lines/StylusLines (3)/Line (4)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (2)/plant_12 (7)
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6/Light_foot/Sphere (8)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/VRChat_logo (1)
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic/Spotlight (4)
+_UI/ENVIRONMENT/UI_WorldUI
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (2)
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (12)
+_CORE_SCENE/_Level_Core_Night/PosterLights/poster_curved
+_CORE_SCENE/_Level_Core_Night/PosterLights
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/VRChat_logo (1)/pasted__pasted__group6/pasted__pasted__svgMesh3/pasted__pasted__transform2
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 2_top/Button/Button_Number
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (8)/Area Light (3)
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/FirePit_2
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnTree_a
+_CORE_SCENE/_Level_Core_Night/stars/star (10)
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6/Light_foot/Sphere (4)
+_CORE_SCENE/_Lighting_Core/_Lights
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (3)/prop_infoPanel (1)
+_CORE_SCENE/_Level_Core_Night/stars/star (15)
+_TOYS/Pens_Export/Lines/StylusLines (3)/Line (2)
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (3)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnBush_a (3)
+_CORE_SCENE/_Lighting_Core/_Probes/Reflection Probe (1)
+_UI/ENVIRONMENT/UI_WorldUI/Canvas/Button_night/Text
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6/Light_foot
+_CORE_SCENE/_Interaction_Core
+_CORE_SCENE/_Level_Core_Night/Studio_pedestal2
+_CORE_SCENE/_Level_Core_Night/stars/star (12)
+_CORE_SCENE/_Level_Core_Night/stars/star (11)
+_TOYS
+_UI/UI_Avatars/PageSwitching/Panel/Header_Avatars
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/plant_12 (1)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 2_bottom/_audiosource_Boop
+_TOYS/Pens_Export/Lines/StylusLines (2)/Line (3)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 1_bottom/Button/Button_Number
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic/Spotlight (2)
+_CORE_SCENE/_Lighting_Core/_Probes
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6/Light_foot/Sphere (9)
+_TOYS/Pens_Export/Pens/Stylus (2)/Anchor
+_UI/UI_Avatars/PageSwitching/Panel
+_UI/ENVIRONMENT/UI_WorldUI/Canvas/Button_night
+LocomotionUIContainer/VRLocoCanvas/VR/BG (2)
+_CORE_SCENE/_Lighting_Core
+_CORE_SCENE/_Lighting_Core/_Probes/Light Probe Group
+_TOYS/Pens_Export/Lines/StylusLines (2)/Line (5)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (3)/poster_AddFriend (1)
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (12)/Quad (6)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (38)
+_UI/UI_Avatars/Avatar_Pages/Page 1
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP/Sphere (1)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 1_bottom/Button
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnBush_a (5)
+_PORTALS/Portal_Channels/V12_standard_set/4
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6/Light_foot/Sphere (5)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 3_bottom/_audiosource_Boop
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (1)
+_CORE_SCENE/_Level_Core_Night/stars/star (9)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/HeroTree (1)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (2)
+_PORTALS/Portal_Channels/V12_standard_set/3
+_PORTALS/Portal_Channels/V12_standard_set/6
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6/Light_foot/Sphere (6)
+_TOYS/_Pickups/Pilllow_2 (2)
+_CORE_SCENE/_Level_Core_Night/stars/star (7)
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (8)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/VRChat_logo (1)/pasted__pasted__group6/pasted__pasted__svgMesh3
+_UI/ENVIRONMENT/UI_WorldUI/Canvas
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (5)/Sphere (1)
+_API_SYSTEMS
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 2_top/Button
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnBush_a (4)
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 2_top/_audiosource_Boop
+_CORE_SCENE
+_CORE_SCENE/_Level_Core_Night
+_PORTALS/Portal_Channels/V12_standard_set/2
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/VRChat_logo (1)/pasted__pasted__group6/pasted__pasted__svgMesh2
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic
+EventSystem
+_CORE_SCENE/_Level_Core_Night/Chair_1 (3)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (5)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 3_bottom/Button
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (30)
+_UI/ENVIRONMENT/UI_WorldUI/Canvas/Button_day
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (2)/plant_12 (8)
+_CORE_SCENE/_Level_Core_Night/stars/star (13)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (3)
+_CORE_SCENE/_Level_Core_Night/Chair_1 (2)
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/Glow_Light
+_TOYS/_Pickups/Vase_3
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (3)/poster_AddFriend
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 3_top/Button/Button_Number
+_PORTALS
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 1_top/Button
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Page_Header
+_CORE_SCENE/_Lighting_Core/_Probes/Reflection Probe (4)
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic/Point light (53)
+_TOYS/Pens_Export/Lines/StylusLines (2)/Line (1)
+_PORTALS/Portal_Channels/V12_standard_set/5
+_UI/UI_Avatars/PageSwitching
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 3_top/_audiosource_Boop
+_MIRROR/Trigger_EnableMirror
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 3_bottom/_Particle_Flash_burst_confirm
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic/Spotlight (1)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)
+_TOYS/Pens_Export/Pens/Stylus (2)/Tip
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel/poster_AddFriend
+LocomotionUIContainer/VRLocoCanvas/VR
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (5)/plant_12 (8)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (49)
+_CORE_SCENE/_Lighting_Core/_Probes/Reflection Probe
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnBush_a
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6
+_TOYS/Pens_Export/Lines/StylusLines (2)/Line (4)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/VRChat_logo (1)/pasted__pasted__group6/pasted__pasted__svgMesh1
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (58)
+_TEMP
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (6)
+_Cameras
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (2)/poster_AddFriend (1)
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (2)/Sphere (1)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom
+_CORE_SCENE/_Level_Core_Night/stars
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/VRChat_logo (1)/pasted__pasted__group6/pasted__pasted__svgMesh3/pasted__pasted__transform1
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (50)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (60)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (47)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/plant_12 (5)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (56)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 2_bottom/_Particle_Flash_burst_confirm
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/plant_12 (6)
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/Furniture
+_CORE_SCENE/_Furniture
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 1_top/Button/Button_Number
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (10)/Area Light (3)
+_MIRROR/Graphics_Mirror
+_PORTALS/Portal_Avatars
+_TOYS/_Pickups
+_TOYS/Pens_Export/Pens/Stylus (3)
+_UI/UI_Avatars/Avatar_Pages
+_TOYS/_Pickups/Pillow_1
+_CORE_SCENE/_Level_Core_Night/stars/star (8)
+_TOYS/_Pickups/Pillow_1 (1)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (1)
+_TOYS/Pens_Export/Pens/Stylus (2)
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6/Light_foot/Sphere (7)
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (11)
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (12)/Area Light (3)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 2_bottom
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (5)/plant_12 (7)
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/GLOW
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 1_top/_Particle_Flash_burst_confirm
+_TOYS/_Pickups/Pilllow_2 (1)
+_CORE_SCENE/_Lighting_Core/_Probes/Reflection Probe (2)
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (3)/Sphere (1)
+_TOYS/Pens_Export/Lines/StylusLines (3)/Line (3)
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (11)/Area Light (3)
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/StartBay1
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 3_bottom
+_CORE_SCENE/_FX_Core/FX_Fire
+_CORE_SCENE/_FX_Core/FX_Spawn
+_CORE_SCENE/_FX_Core/FX_HoloMotes
+_CORE_SCENE/_FX_Core/FX_Smoke
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/boop
+_TOYS/Pens_Export/Lines/FountainPenLines/Line (5)
+_TOYS/Pens_Export/Lines/FountainPenLines/Line (2)
+_TOYS/Pens_Export/Lines/FountainPenLines/Line (4)
+_TOYS/Pens_Export/Lines/FountainPenLines/Line (3)
+_SEATS/VRCChair3 (2)/Seat
+_SEATS/VRCChair3 (4)/Exit
+_SEATS/VRCChair3 (2)/Exit
+_SEATS/VRCChair3 (4)/Seat
+_SEATS/_FireChairs/VRCChair3 (1)/Seat
+_SEATS/VRCChair3 (3)/Exit
+_SEATS/_FireChairs/VRCChair3/Exit
+_SEATS/_FireChairs/VRCChair3 (1)/Exit
+_SEATS/VRCChair3 (3)/Seat
+_SEATS/_FireChairs/VRCChair3/Seat
+_SEATS/VRCChair3 (4)
+_SEATS/VRCChair3 (2)
+_SEATS/VRCChair3 (3)
+_SEATS/_FireChairs/VRCChair3
+_SEATS/_FireChairs/VRCChair3 (1)
+_TOYS/Pens_Export/Pens/Eraser
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/particles
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/particles
+_TOYS/Pens_Export
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/particles
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/particles
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/boop
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/boop
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (10)/Wolf_3dPoster
+_TOYS/Pens_Export/Pens/FountainPen
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/particles
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6
+LocomotionUIContainer/VRLocoCanvas/VR/HoloportButton/HoloportAnim
+LocomotionUIContainer/VRLocoCanvas/VR/FirstPersonButton
+LocomotionUIContainer/VRLocoCanvas/HeaderCanvas (1)/LocomotionSettingsImage
+LocomotionUIContainer/VRLocoCanvas/VR/FirstPersonButton/SmoothAnim
+LocomotionUIContainer/VRLocoCanvas/VR/HoloportButton/HoloportAnim (1)
+LocomotionUIContainer/VRLocoCanvas/BG
+LocomotionUIContainer/VRLocoCanvas/VR/FirstPersonButton/Text (2)
+LocomotionUIContainer/VRLocoCanvas/VR/FirstPersonButton/Text
+LocomotionUIContainer/VRLocoCanvas
+LocomotionUIContainer/VRLocoCanvas/VR/HoloportButton
+LocomotionUIContainer/VRLocoCanvas/VR/BG (1)
+LocomotionUIContainer/VRLocoCanvas/VR/Header
+LocomotionUIContainer/VRLocoCanvas/VR/HoloportButton/Text (1)
+LocomotionUIContainer
+LocomotionUIContainer/VRLocoCanvas/VR/FirstPersonButton/SmoothAnim
+LocomotionUIContainer/VRLocoCanvas/VR/HoloportButton/Text
+LocomotionUIContainer/VRLocoCanvas/HeaderCanvas (1)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/boop
+_TOYS/Pens_Export/Lines/FountainPenLines/Line (1)
+_TOYS/Pens_Export/Lines/FountainPenLines
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/particles
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/particles
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/particles
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/boop
+_TOYS/Pens_Export/Pens/Stylus (1)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/boop
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5
+_CORE_SCENE/_Details_Core/TEXT_Sign_jam/VRC_Jams_World_Image2 (1)
+_CORE_SCENE/_Details_Core/TEXT_Sign_jam
+_SEATS/VRCChair3 (4)/VRC_chair_udon
+_SEATS/VRCChair3 (2)/VRC_chair_udon
+_SEATS/_FireChairs/VRCChair3/VRC_chair_udon
+_SEATS/VRCChair3 (3)/VRC_chair_udon
+_SEATS/_FireChairs/VRCChair3 (1)/VRC_chair_udon
+_TOYS/Pens_Export/Pens/FountainPen/Anchor
+_TOYS/Pens_Export/Pens/Eraser/Anchor
+_TOYS/Pens_Export/Lines/StylusLines (1)/Line (3)
+_TOYS/Pens_Export/Lines/StylusLines (1)/Line (2)
+_TOYS/Pens_Export/Lines/StylusLines (1)/Line (1)
+_TOYS/Pens_Export/Pens
+_TOYS/Pens_Export/Pens/FountainPen/Tip
+_TOYS/Pens_Export/Lines
+_TOYS/Pens_Export/ColorSelectorSprite (sm)
+_TOYS/Pens_Export/Pens/Stylus (1)/Tip
+_TOYS/Pens_Export/Pens/Stylus (1)/Anchor
+_TOYS/Pens_Export/Lines/StylusLines (1)/Line (4)
+_TOYS/Pens_Export/Lines/StylusLines (1)
+_TOYS/Pens_Export/Lines/StylusLines (1)/Line (5)
+_CORE_SCENE/_Details_Core/Hologram_AvatarPedestal (1)
+_CORE_SCENE/_Details_Core/Hologram_AvatarPedestal
+_CORE_SCENE/_Details_Core
+_CORE_SCENE/_Details_Core/Hologram_VRC_Map/UI_Rings
+_CORE_SCENE/_Details_Core/Hologram_VRC_Map
+_CORE_SCENE/_Details_Core/Hologram_VRC_Map/UI_Rings2
+_CORE_SCENE/_Details_Core/Hologram_VRC_Map/UI_Rings1
+_UI/ENVIRONMENT/UI_WorldUI/Home_Decor_icons/day
+_UI/ENVIRONMENT/UI_WorldUI/Home_Decor_icons
+_UI/ENVIRONMENT/UI_WorldUI/Home_Decor_icons/night
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/boop
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/boop
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/AvatarPedestal(Clone)/PlatformIconBack/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/AvatarPedestal(Clone)/PlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/AvatarPedestal(Clone)/PlatformIconFront/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/AvatarPedestal(Clone)/PlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/AvatarPedestal(Clone)/ForwardDirection
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/AvatarPedestal(Clone)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/AvatarPedestal(Clone)/PlatformIconBack/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/AvatarPedestal(Clone)/PlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/AvatarPedestal(Clone)/PlatformIconFront/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/AvatarPedestal(Clone)/PlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/AvatarPedestal(Clone)/ForwardDirection
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/AvatarPedestal(Clone)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/AvatarPedestal(Clone)/PlatformIconBack/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/AvatarPedestal(Clone)/PlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/AvatarPedestal(Clone)/PlatformIconFront/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/AvatarPedestal(Clone)/PlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/AvatarPedestal(Clone)/ForwardDirection
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/AvatarPedestal(Clone)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/AvatarPedestal(Clone)/PlatformIconBack/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/AvatarPedestal(Clone)/PlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/AvatarPedestal(Clone)/PlatformIconFront/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/AvatarPedestal(Clone)/PlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/AvatarPedestal(Clone)/ForwardDirection
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/AvatarPedestal(Clone)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/AvatarPedestal(Clone)/PlatformIconBack/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/AvatarPedestal(Clone)/PlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/AvatarPedestal(Clone)/PlatformIconFront/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/AvatarPedestal(Clone)/PlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/AvatarPedestal(Clone)/ForwardDirection
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/AvatarPedestal(Clone)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/AvatarPedestal(Clone)/PlatformIconBack/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/AvatarPedestal(Clone)/PlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/AvatarPedestal(Clone)/PlatformIconFront/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/AvatarPedestal(Clone)/PlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/AvatarPedestal(Clone)/ForwardDirection
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/AvatarPedestal(Clone)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/AvatarPedestal(Clone)/PlatformIconBack/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/AvatarPedestal(Clone)/PlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/AvatarPedestal(Clone)/PlatformIconFront/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/AvatarPedestal(Clone)/PlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/AvatarPedestal(Clone)/ForwardDirection
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/AvatarPedestal(Clone)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/AvatarPedestal(Clone)/PlatformIconBack/MobilePlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/AvatarPedestal(Clone)/PlatformIconBack/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/AvatarPedestal(Clone)/PlatformIconBack
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/AvatarPedestal(Clone)/PlatformIconFront/MobilePlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/AvatarPedestal(Clone)/PlatformIconFront/PC
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/AvatarPedestal(Clone)/PlatformIconFront
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/AvatarPedestal(Clone)/ForwardDirection
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/AvatarPedestal(Clone)
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_Avatars/PortalInternalMobile(Clone)
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_Channels/V12_standard_set/5/PortalInternalMobile(Clone)
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_Channels/V12_standard_set/2/PortalInternalMobile(Clone)
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_Channels/V12_standard_set/6/PortalInternalMobile(Clone)
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_Channels/V12_standard_set/3/PortalInternalMobile(Clone)
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_Channels/V12_standard_set/4/PortalInternalMobile(Clone)
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_Avatar3/PortalInternalMobile(Clone)
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_HUB_jam/PortalInternalMobile(Clone)
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)/PlatformIcons/Quad (1)
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)/PlatformIcons/Quad
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)/PlatformIcons
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)/Canvas/NameTag
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)/Canvas
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)/PortalGraphics/PortalFringe
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)/PortalGraphics/PortalCore
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)/PortalGraphics
+_PORTALS/Portal_Channels/V12_standard_set/1/PortalInternalMobile(Clone)
+Oculus.Platform.CallbackRunner
+UserInterface/UnscaledUI/HudContent/HUD_UI 2(Clone)/Desktop Canvas/Right Desktop Anchor
+UserInterface/UnscaledUI/HudContent/HUD_UI 2(Clone)/Desktop Canvas/Center Desktop Anchor
+UserInterface/UnscaledUI/HudContent/HUD_UI 2(Clone)/Desktop Canvas/Left Desktop Anchor
+UserInterface/UnscaledUI/HudContent/HUD_UI 2(Clone)/Desktop Canvas
+UserInterface/UnscaledUI/HudContent/HUD_UI 2(Clone)
+[DOTween]
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/ControllerUIQuestRight(Clone)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/ControllerUIQuestLeft(Clone)
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/BackLoadingScreenWorldImage
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/BackLoadingScreen
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/FrontLoadingScreenWorldImage
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/FrontLoadingScreen
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)/CubemapSkybox
+_Application/TrackingVolume/VRLoadingOverlay/OVRLoadingOverlay(Clone)
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/PalmOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/GripOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/GunOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/PointerOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right/WristOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Right
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/PalmOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/GripOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/GunOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/WristOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left/PointerOrigin
+_Application/TrackingVolume/TrackingHandProxy(Clone)/Left
+_Application/TrackingVolume/TrackingHandProxy(Clone)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/RightControllerAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/PalmOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/WristOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/PointerOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/GunOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor/GripOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightHandAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/LeftControllerAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/PalmOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/WristOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/PointerOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/GunOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor/GripOrigin (1)
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftHandAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/TrackerAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/RightEyeAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/CenterEyeAnchor/Ear
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/CenterEyeAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace/LeftEyeAnchor
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig/TrackingSpace
+_Application/TrackingVolume/TrackingQuest(Clone)/OVRCameraRig
+_Application/TrackingVolume/TrackingQuest(Clone)
+PhotonMono 9D799
+New Game Object
+_Application/GraphicsManager
+_Application/ApplicationSetup
+_Application/TrackingVolume/PlayerObjects
+_Application/UIManager/InfoPushSystemManager
+_Application/TrackingVolume/IMDraw
+_Application/FriendsListManager
+_Application/UIManager
+_Application/NameplateManager
+_Application/UIManager/AvatarsManager
+_Application
+_Application/UIManager/Emotes
+_Application/CursorManager/SelectedOutlinePrimary
+_Application/AnalyticsManager
+_Application/TrackingVolume
+_Application/RoomManager
+_Application/InputManager
+_Application/NotificationManager
+_Application/HMDManager
+_Application/NetworkManager
+_Application/CursorManager/SelectedOutlineSecondary
+_Application/UiEventSystem
+_Application/PanoramaCapture
+_Application/AudioManager
+_Application/CursorManager
+_Application/TrackingVolume/VRLoadingOverlay
+_Application/OscMidiManager
+_Application/AssetBundleDownloadManager
+_Application/AudioManager/OculusSpatializerSettings
+_Application/PerformanceManager
+_Application/PermissionsManager
+_Application/AudioManager/OVRLipSync
+_Application/Updators
+_Application/LogManager
+_Application/TrackingVolume/PlayerObjects/PersonalMirror
+_Application/ColorCorrectionManager
+_Application/UIManager/UIInputManager
+_Application/UIManager/SelectedUserManager
+_Application/UIManager/PlayerInputManager
+_Application/PlayableManager
+_Application/UIManager/Settings
+_Application/UIManager/TextureManager
+_Application/AssetManagement
+_Application/TrackingVolume/PlayerObjects/UserCamera/LensTarget
+_Application/TrackingVolume/PlayerObjects/UserCamera
+_Application/UIManager/DataModelManager
+_Application/FPVCameraController
+_Application/InviteAndResponseManager
+_Application/FontManager
+_Application/AvatarDynamics
+_Application/UdonManager
+_Application/ControllerBindingsManager
+_Application/UIManager/DevTools
+_Application/AvatarDynamics/IMDraw
+_Application/FlowManager
+_Application/StatusManager
+_Application/HeadlessManager
+_Application/UIManager/EmojiManager
+UserInterface/MenuContent/Screens
+UserInterface/UnscaledUI/HudContent
+UserInterface/MenuContent/Interupts
+UserInterface
+UserInterface/MenuContent/MenuAudio
+UserInterface/MenuContent/Screens/Authentication
+UserInterface/MenuContent/Backdrop
+UserInterface/MenuContent/Popups
+UserInterface/QuickMenuLoader
+UserInterface/MenuContent
+UserInterface/MenuContent/Screens/FirstLogin
+UserInterface/PlayerDisplay
+UserInterface/PlayerDisplay/BlackFade/inverted_sphere
+UserInterface/PlayerDisplay/BlackFade
+UserInterface/DebugUI
+UserInterface/Watermark
+UserInterface/UnscaledUI/HudContent/Canvas/ReticleParent/Reticle
+UserInterface/UnscaledUI/HudContent/Canvas/ReticleParent
+UserInterface/UnscaledUI/HudContent/Canvas
+UserInterface/UnscaledUI
+UserInterface/ActionMenu
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 1_top/_audiosource_Boop
+_PORTALS/Portal_Channels/V12_standard_set/1
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (11)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (5)
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Page_Header
+_TOYS/_Pickups/Vase_4
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (3)
+_SEASONAL
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (1)/Sphere (1)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/plant_12
+_CORE_SCENE/_Level_Core_Night/Studio_pedestal2 (1)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (48)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/plant_12 (3)
+_CORE_SCENE/_Level_Core_Night/stars/star
+_CORE_SCENE/_Level_Core_Night/stars/star (3)
+_TOYS/_Pickups/Pilllow_2
+_CORE_SCENE/_Level_Core_Night/stars/star (4)
+_PORTALS/Portal_Channels
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (5)/poster_AddFriend
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6/Light_foot/Sphere (3)
+_UI/UI_Avatars/PageSwitching/PageButtonsTop
+_TOYS/Pens_Export/Lines/StylusLines (3)
+_PORTALS/Portal_HUB_jam
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/HomeAtlased_MESH
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 2_top/_Particle_Flash_burst_confirm
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/FirePit_2/FireGlow
+_SEATS
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/HeroTree
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/HoloPod
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (4)/plant_12 (8)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (2)
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 3_top
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Hub_portal_Point
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 2_bottom/Button/Button_Number
+_UI/ENVIRONMENT/UI_WorldUI/Canvas/Panel
+_CORE_SCENE/_Level_Core_Night/stars/star (16)
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (8)/Quad (6)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/plant_12 (2)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/VRChat_logo (1)/pasted__pasted__group6
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 1_bottom/_audiosource_Boop
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (11)/Quad (6)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnTree_a (1)
+_PORTALS/Portal_Channels/V12_standard_set
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (12)
+_AUDIO
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/Posters
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (2)
+_CORE_SCENE/_Level_Core_Night/stars/star (14)
+_UI/ENVIRONMENT/UI_WorldUI/Canvas/Button_day/Text
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 1_top
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel/prop_infoPanel (1)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 3_bottom/Button/Button_Number
+_CORE_SCENE/_Lighting_Core/_Lights/Sun_0
+_TOYS/_Pickups/Vase_1
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 1_bottom/_Particle_Flash_burst_confirm
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (2)/prop_infoPanel (1)
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/Floor
+_Cameras/Main Camera
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnBush_a (2)
+_CORE_SCENE/_Level_Core_Night/mirror_lamp
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/placement
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (10)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnTree_a (2)
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 3_top/Button
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 3_top/_Particle_Flash_burst_confirm
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic/Spotlight (3)
+_TOYS/Pens_Export/Pens/Stylus (3)/Anchor
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (4)/plant_12 (7)
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP
+_TOYS/Pens_Export/Lines/StylusLines (3)/Line (1)
+spawn
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/VRChat_logo (1)/Graphics_Welcome
+_UI/ENVIRONMENT/UI_WorldUI/Canvas/Panel/Text
+_MIRROR
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/plant_12 (4)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (5)
+_CORE_SCENE/_Lighting_Core/_Probes/Reflection Probe (3)
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic/Point light (51)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (5)/prop_infoPanel (1)
+_CORE_SCENE/_Level_Core_Night/stars/star (6)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (55)
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (6)/Sphere (1)
+_UI
+_TOYS/Pens_Export/Lines/StylusLines (3)/Line (5)
+_TOYS/Pens_Export/Pens/Stylus (3)/Tip
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel
+_TOYS/Pens_Export/Lines/StylusLines (2)
+_PORTALS/Portal_Avatar3
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (1)
+_UI/UI_Avatars
+_UI/ENVIRONMENT
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 1_bottom
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnBush_a (1)
+_CORE_SCENE/_FX_Core
+_CORE_SCENE/_Level_Core_Night/stars/star (2)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 2_bottom/Button
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (4)
+LocomotionUIContainer/VRLocoCanvas/VR/Header (1)
+_SEATS/_FireChairs
+_CORE_SCENE/_Level_Core_Night/stars/star (1)
+_TOYS/Pens_Export/Lines/StylusLines (2)/Line (2)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/Posters/Quad (5)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (51)
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic/Point light (52)
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 2_top
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic/Point light (2)
+_CORE_SCENE/_Level_Core_Night/stars/star (5)
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (4)
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (5)
+VRCWorld
+_TOYS/Pens_Export/Lines/StylusLines (3)/Line (4)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (2)/plant_12 (7)
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6/Light_foot/Sphere (8)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/VRChat_logo (1)
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic/Spotlight (4)
+_UI/ENVIRONMENT/UI_WorldUI
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (2)
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (12)
+_CORE_SCENE/_Level_Core_Night/PosterLights/poster_curved
+_CORE_SCENE/_Level_Core_Night/PosterLights
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/VRChat_logo (1)/pasted__pasted__group6/pasted__pasted__svgMesh3/pasted__pasted__transform2
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 2_top/Button/Button_Number
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (8)/Area Light (3)
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/FirePit_2
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnTree_a
+_CORE_SCENE/_Level_Core_Night/stars/star (10)
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6/Light_foot/Sphere (4)
+_CORE_SCENE/_Lighting_Core/_Lights
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (3)/prop_infoPanel (1)
+_CORE_SCENE/_Level_Core_Night/stars/star (15)
+_TOYS/Pens_Export/Lines/StylusLines (3)/Line (2)
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (3)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnBush_a (3)
+_CORE_SCENE/_Lighting_Core/_Probes/Reflection Probe (1)
+_UI/ENVIRONMENT/UI_WorldUI/Canvas/Button_night/Text
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6/Light_foot
+_CORE_SCENE/_Interaction_Core
+_CORE_SCENE/_Level_Core_Night/Studio_pedestal2
+_CORE_SCENE/_Level_Core_Night/stars/star (12)
+_CORE_SCENE/_Level_Core_Night/stars/star (11)
+_TOYS
+_UI/UI_Avatars/PageSwitching/Panel/Header_Avatars
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/plant_12 (1)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 2_bottom/_audiosource_Boop
+_TOYS/Pens_Export/Lines/StylusLines (2)/Line (3)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 1_bottom/Button/Button_Number
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic/Spotlight (2)
+_CORE_SCENE/_Lighting_Core/_Probes
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6/Light_foot/Sphere (9)
+_TOYS/Pens_Export/Pens/Stylus (2)/Anchor
+_UI/UI_Avatars/PageSwitching/Panel
+_UI/ENVIRONMENT/UI_WorldUI/Canvas/Button_night
+LocomotionUIContainer/VRLocoCanvas/VR/BG (2)
+_CORE_SCENE/_Lighting_Core
+_CORE_SCENE/_Lighting_Core/_Probes/Light Probe Group
+_TOYS/Pens_Export/Lines/StylusLines (2)/Line (5)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (3)/poster_AddFriend (1)
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (12)/Quad (6)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (38)
+_UI/UI_Avatars/Avatar_Pages/Page 1
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP/Sphere (1)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 1_bottom/Button
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnBush_a (5)
+_PORTALS/Portal_Channels/V12_standard_set/4
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6/Light_foot/Sphere (5)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 3_bottom/_audiosource_Boop
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (1)
+_CORE_SCENE/_Level_Core_Night/stars/star (9)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/HeroTree (1)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (2)
+_PORTALS/Portal_Channels/V12_standard_set/3
+_PORTALS/Portal_Channels/V12_standard_set/6
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6/Light_foot/Sphere (6)
+_TOYS/_Pickups/Pilllow_2 (2)
+_CORE_SCENE/_Level_Core_Night/stars/star (7)
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (8)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/VRChat_logo (1)/pasted__pasted__group6/pasted__pasted__svgMesh3
+_UI/ENVIRONMENT/UI_WorldUI/Canvas
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (5)/Sphere (1)
+_API_SYSTEMS
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 2_top/Button
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnBush_a (4)
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 2_top/_audiosource_Boop
+_CORE_SCENE
+_CORE_SCENE/_Level_Core_Night
+_PORTALS/Portal_Channels/V12_standard_set/2
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/VRChat_logo (1)/pasted__pasted__group6/pasted__pasted__svgMesh2
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic
+EventSystem
+_CORE_SCENE/_Level_Core_Night/Chair_1 (3)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (5)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 3_bottom/Button
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (30)
+_UI/ENVIRONMENT/UI_WorldUI/Canvas/Button_day
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (2)/plant_12 (8)
+_CORE_SCENE/_Level_Core_Night/stars/star (13)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (3)
+_CORE_SCENE/_Level_Core_Night/Chair_1 (2)
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/Glow_Light
+_TOYS/_Pickups/Vase_3
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (3)/poster_AddFriend
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 3_top/Button/Button_Number
+_PORTALS
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 1_top/Button
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Page_Header
+_CORE_SCENE/_Lighting_Core/_Probes/Reflection Probe (4)
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic/Point light (53)
+_TOYS/Pens_Export/Lines/StylusLines (2)/Line (1)
+_PORTALS/Portal_Channels/V12_standard_set/5
+_UI/UI_Avatars/PageSwitching
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 3_top/_audiosource_Boop
+_MIRROR/Trigger_EnableMirror
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 3_bottom/_Particle_Flash_burst_confirm
+_CORE_SCENE/_Lighting_Core/_Lights/_Dramatic/Spotlight (1)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)
+_TOYS/Pens_Export/Pens/Stylus (2)/Tip
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel/poster_AddFriend
+LocomotionUIContainer/VRLocoCanvas/VR
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (5)/plant_12 (8)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (49)
+_CORE_SCENE/_Lighting_Core/_Probes/Reflection Probe
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/LawnBush_a
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6
+_TOYS/Pens_Export/Lines/StylusLines (2)/Line (4)
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/VRChat_logo (1)/pasted__pasted__group6/pasted__pasted__svgMesh1
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (58)
+_TEMP
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (6)
+_Cameras
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/InfoPanel (2)/poster_AddFriend (1)
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (2)/Sphere (1)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom
+_CORE_SCENE/_Level_Core_Night/stars
+_CORE_SCENE/_Level_Core_Night/_GRAPHICS (1)/VRChat_logo (1)/pasted__pasted__group6/pasted__pasted__svgMesh3/pasted__pasted__transform1
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (50)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (60)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (47)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/plant_12 (5)
+_CORE_SCENE/_Lighting_Core/_Lights/_BaseLighting (white)/Point light (56)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 2_bottom/_Particle_Flash_burst_confirm
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/plant_12 (6)
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/Furniture
+_CORE_SCENE/_Furniture
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 1_top/Button/Button_Number
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (10)/Area Light (3)
+_MIRROR/Graphics_Mirror
+_PORTALS/Portal_Avatars
+_TOYS/_Pickups
+_TOYS/Pens_Export/Pens/Stylus (3)
+_UI/UI_Avatars/Avatar_Pages
+_TOYS/_Pickups/Pillow_1
+_CORE_SCENE/_Level_Core_Night/stars/star (8)
+_TOYS/_Pickups/Pillow_1 (1)
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (1)
+_TOYS/Pens_Export/Pens/Stylus (2)
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6
+_CORE_SCENE/_Level_Core_Night/Portal_Patio_V6/Light_foot/Sphere (7)
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (11)
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (12)/Area Light (3)
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 2_bottom
+_CORE_SCENE/_Level_Core_Night/_Foliage_Core (1)/Vases/Vase_1 (5)/plant_12 (7)
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/GLOW
+_UI/UI_Avatars/PageSwitching/PageButtonsTop/Button_Page 1_top/_Particle_Flash_burst_confirm
+_TOYS/_Pickups/Pilllow_2 (1)
+_CORE_SCENE/_Lighting_Core/_Probes/Reflection Probe (2)
+_CORE_SCENE/_Level_Core_Night/_TempLights (1)/Light_TEMP (3)/Sphere (1)
+_TOYS/Pens_Export/Lines/StylusLines (3)/Line (3)
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (11)/Area Light (3)
+_CORE_SCENE/_Level_Core_Night/Home_Atlas_Porch_V6/StartBay1
+_UI/UI_Avatars/PageSwitching/PageButtonsBottom/Button_Page 3_bottom
+_CORE_SCENE/_FX_Core/FX_Fire
+_CORE_SCENE/_FX_Core/FX_Spawn
+_CORE_SCENE/_FX_Core/FX_HoloMotes
+_CORE_SCENE/_FX_Core/FX_Smoke
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/boop
+_TOYS/Pens_Export/Lines/FountainPenLines/Line (5)
+_TOYS/Pens_Export/Lines/FountainPenLines/Line (2)
+_TOYS/Pens_Export/Lines/FountainPenLines/Line (4)
+_TOYS/Pens_Export/Lines/FountainPenLines/Line (3)
+_SEATS/VRCChair3 (2)/Seat
+_SEATS/VRCChair3 (4)/Exit
+_SEATS/VRCChair3 (2)/Exit
+_SEATS/VRCChair3 (4)/Seat
+_SEATS/_FireChairs/VRCChair3 (1)/Seat
+_SEATS/VRCChair3 (3)/Exit
+_SEATS/_FireChairs/VRCChair3/Exit
+_SEATS/_FireChairs/VRCChair3 (1)/Exit
+_SEATS/VRCChair3 (3)/Seat
+_SEATS/_FireChairs/VRCChair3/Seat
+_SEATS/VRCChair3 (4)
+_SEATS/VRCChair3 (2)
+_SEATS/VRCChair3 (3)
+_SEATS/_FireChairs/VRCChair3
+_SEATS/_FireChairs/VRCChair3 (1)
+_TOYS/Pens_Export/Pens/Eraser
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/particles
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/particles
+_TOYS/Pens_Export
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/particles
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/particles
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2/boop
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5/boop
+_CORE_SCENE/_Level_Core_Night/PosterLights/posterlight (10)/Wolf_3dPoster
+_TOYS/Pens_Export/Pens/FountainPen
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/particles
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6
+LocomotionUIContainer/VRLocoCanvas/VR/HoloportButton/HoloportAnim
+LocomotionUIContainer/VRLocoCanvas/VR/FirstPersonButton
+LocomotionUIContainer/VRLocoCanvas/HeaderCanvas (1)/LocomotionSettingsImage
+LocomotionUIContainer/VRLocoCanvas/VR/FirstPersonButton/SmoothAnim
+LocomotionUIContainer/VRLocoCanvas/VR/HoloportButton/HoloportAnim (1)
+LocomotionUIContainer/VRLocoCanvas/BG
+LocomotionUIContainer/VRLocoCanvas/VR/FirstPersonButton/Text (2)
+LocomotionUIContainer/VRLocoCanvas/VR/FirstPersonButton/Text
+LocomotionUIContainer/VRLocoCanvas
+LocomotionUIContainer/VRLocoCanvas/VR/HoloportButton
+LocomotionUIContainer/VRLocoCanvas/VR/BG (1)
+LocomotionUIContainer/VRLocoCanvas/VR/Header
+LocomotionUIContainer/VRLocoCanvas/VR/HoloportButton/Text (1)
+LocomotionUIContainer
+LocomotionUIContainer/VRLocoCanvas/VR/FirstPersonButton/SmoothAnim
+LocomotionUIContainer/VRLocoCanvas/VR/HoloportButton/Text
+LocomotionUIContainer/VRLocoCanvas/HeaderCanvas (1)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8/boop
+_TOYS/Pens_Export/Lines/FountainPenLines/Line (1)
+_TOYS/Pens_Export/Lines/FountainPenLines
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/particles
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/particles
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7/particles
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1/boop
+_TOYS/Pens_Export/Pens/Stylus (1)
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar3/boop
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar5
+_CORE_SCENE/_Details_Core/TEXT_Sign_jam/VRC_Jams_World_Image2 (1)
+_CORE_SCENE/_Details_Core/TEXT_Sign_jam
+_SEATS/VRCChair3 (4)/VRC_chair_udon
+_SEATS/VRCChair3 (2)/VRC_chair_udon
+_SEATS/_FireChairs/VRCChair3/VRC_chair_udon
+_SEATS/VRCChair3 (3)/VRC_chair_udon
+_SEATS/_FireChairs/VRCChair3 (1)/VRC_chair_udon
+_TOYS/Pens_Export/Pens/FountainPen/Anchor
+_TOYS/Pens_Export/Pens/Eraser/Anchor
+_TOYS/Pens_Export/Lines/StylusLines (1)/Line (3)
+_TOYS/Pens_Export/Lines/StylusLines (1)/Line (2)
+_TOYS/Pens_Export/Lines/StylusLines (1)/Line (1)
+_TOYS/Pens_Export/Pens
+_TOYS/Pens_Export/Pens/FountainPen/Tip
+_TOYS/Pens_Export/Lines
+_TOYS/Pens_Export/ColorSelectorSprite (sm)
+_TOYS/Pens_Export/Pens/Stylus (1)/Tip
+_TOYS/Pens_Export/Pens/Stylus (1)/Anchor
+_TOYS/Pens_Export/Lines/StylusLines (1)/Line (4)
+_TOYS/Pens_Export/Lines/StylusLines (1)
+_TOYS/Pens_Export/Lines/StylusLines (1)/Line (5)
+_CORE_SCENE/_Details_Core/Hologram_AvatarPedestal (1)
+_CORE_SCENE/_Details_Core/Hologram_AvatarPedestal
+_CORE_SCENE/_Details_Core
+_CORE_SCENE/_Details_Core/Hologram_VRC_Map/UI_Rings
+_CORE_SCENE/_Details_Core/Hologram_VRC_Map
+_CORE_SCENE/_Details_Core/Hologram_VRC_Map/UI_Rings2
+_CORE_SCENE/_Details_Core/Hologram_VRC_Map/UI_Rings1
+_UI/ENVIRONMENT/UI_WorldUI/Home_Decor_icons/day
+_UI/ENVIRONMENT/UI_WorldUI/Home_Decor_icons
+_UI/ENVIRONMENT/UI_WorldUI/Home_Decor_icons/night
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar2
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar6/boop
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar8
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar1
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar4/boop
+_UI/UI_Avatars/Avatar_Pages/Page 1/avatar7
