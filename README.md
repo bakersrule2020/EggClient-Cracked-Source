@@ -1,4 +1,5 @@
 # EggClient-Cracked-Source
+bro why are people still looking at this this happened so fucking long ago and this code doesn't work
 foonix called me a nigger for releasing this. cry about it, foonix |
 released by CEO of dlscord totally#8769
 # released because foonix and kami are mega skids
